@@ -1,0 +1,19 @@
+{
+  "id": "2e929f38-d672-4383-b5f1-e7ab321b1025",
+  "importStreams": [
+    {
+      "id": "2ffb5ec3-bef0-4a1d-91e7-55d1001ad2dd",
+      "name": "proto-file",
+      "importerName": "ProtoFile",
+      "createMissingOperations": true,
+      "options": {
+        "files": [
+          "../IntelliJ IDEA Projects/gRPC/proto/user.proto"
+        ],
+        "importPaths": []
+      }
+    }
+  ],
+  "authConfigs": [],
+  "certificates": []
+}
